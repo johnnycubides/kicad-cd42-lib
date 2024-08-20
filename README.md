@@ -1,10 +1,9 @@
 # kicad-cd42-lib
 
+En éste repositorio encuentra tanto el símbolo como el footprint del mh-cd42. El diseño 3D
+es descargado desde le plataforma grabcad, de la cual doy créditos de su [autor](https://grabcad.com/k.b-103).
+
 ![modelo3d](./grabcad/mh-cd42.png)
 
-Librería para un módulo de kicad
-
-En esta librería encuentra información relacionada de diferentes
-fuentes del módulo cargador y elevador de tensión cd42.
 
 Johnny Cubides
